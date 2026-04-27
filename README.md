@@ -72,5 +72,5 @@ For educational purposes only. Always consult a doctor.
 
 \## 👤 Author
 
-\*\*\[Your Name]\*\* — \[GitHub](#) · \[LinkedIn](#)
+\*\*\[Muhammad Anees]
 
